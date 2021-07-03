@@ -1,0 +1,21 @@
+h1{
+    color:palevioletred;
+    text-align: center;
+
+}
+.p3{
+    color: whitesmoke;
+    background-color: rgb(1, 78, 1);
+}
+body{
+    background-color:rgb(31, 29, 29);
+}
+.container{
+    background-color: rgb(119, 119, 119);
+    width: 800px;
+    text-align:justify;
+    border: 3px solid rgb(248, 17, 0);
+    margin: 50PX 0 0 250px;
+    padding: 0 15px 0 15px;
+
+}
